@@ -1,0 +1,14 @@
+C:\Users\Azizova\source\repos\CarGalleryTaskIndexer\CarGalleryTaskIndexer\bin\Debug\net6.0\CarGalleryTaskIndexer.exe
+C:\Users\Azizova\source\repos\CarGalleryTaskIndexer\CarGalleryTaskIndexer\bin\Debug\net6.0\CarGalleryTaskIndexer.deps.json
+C:\Users\Azizova\source\repos\CarGalleryTaskIndexer\CarGalleryTaskIndexer\bin\Debug\net6.0\CarGalleryTaskIndexer.runtimeconfig.json
+C:\Users\Azizova\source\repos\CarGalleryTaskIndexer\CarGalleryTaskIndexer\bin\Debug\net6.0\CarGalleryTaskIndexer.dll
+C:\Users\Azizova\source\repos\CarGalleryTaskIndexer\CarGalleryTaskIndexer\bin\Debug\net6.0\CarGalleryTaskIndexer.pdb
+C:\Users\Azizova\source\repos\CarGalleryTaskIndexer\CarGalleryTaskIndexer\obj\Debug\net6.0\CarGalleryTaskIndexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Azizova\source\repos\CarGalleryTaskIndexer\CarGalleryTaskIndexer\obj\Debug\net6.0\CarGalleryTaskIndexer.AssemblyInfoInputs.cache
+C:\Users\Azizova\source\repos\CarGalleryTaskIndexer\CarGalleryTaskIndexer\obj\Debug\net6.0\CarGalleryTaskIndexer.AssemblyInfo.cs
+C:\Users\Azizova\source\repos\CarGalleryTaskIndexer\CarGalleryTaskIndexer\obj\Debug\net6.0\CarGalleryTaskIndexer.csproj.CoreCompileInputs.cache
+C:\Users\Azizova\source\repos\CarGalleryTaskIndexer\CarGalleryTaskIndexer\obj\Debug\net6.0\CarGalleryTaskIndexer.dll
+C:\Users\Azizova\source\repos\CarGalleryTaskIndexer\CarGalleryTaskIndexer\obj\Debug\net6.0\refint\CarGalleryTaskIndexer.dll
+C:\Users\Azizova\source\repos\CarGalleryTaskIndexer\CarGalleryTaskIndexer\obj\Debug\net6.0\CarGalleryTaskIndexer.pdb
+C:\Users\Azizova\source\repos\CarGalleryTaskIndexer\CarGalleryTaskIndexer\obj\Debug\net6.0\CarGalleryTaskIndexer.genruntimeconfig.cache
+C:\Users\Azizova\source\repos\CarGalleryTaskIndexer\CarGalleryTaskIndexer\obj\Debug\net6.0\ref\CarGalleryTaskIndexer.dll
